@@ -13,3 +13,5 @@ I started with a 4×8 sheet of plywood and began trimming it down. If I had a pa
 I used my Bessey corner clamp to get these started and then drove the Kreg screws.
 
 I completed the first one, then went back and mimicked the first patterns. Of course it was faster. One optimization was to use my spring clamps on the end caps and drill the holes at the same time. Each hole was really two cuts, so each hole required removing the holes saw, extracting the starting bit, removing the cut pieces, reassembling the starting bit, and remounting the hole saw in the drill press.
+
+<img src="/crate-images/graffle-plywood-layout.JPG">
