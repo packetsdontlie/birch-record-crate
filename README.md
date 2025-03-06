@@ -8,6 +8,7 @@ My records are largely housed in the ubiquitous Ikea Kallax which you can mix an
 # Construction
 
 I decided to try to use pocket holes as my joinery method. I used the Kreg calculator. I needed the 1″ coarse thread for plywood.
+
 I started with a 4×8 sheet of plywood and began trimming it down. If I had a panel system, this might be easier. Once all the pieces were cut, it was time to use my Kreg work station. It was very quick since the 720 jig has a spring clamp that is fast to set and reset. The sides and the end overlap the bottom, so the bottom is the piece with many holes. I used a bead of glue because…I guess I am old school. Assembly was quick, particularly since I wasn’t restricted by the number of clamps waiting for glue to set up.
 
 I used my Bessey corner clamp to get these started and then drove the Kreg screws.
@@ -19,3 +20,24 @@ I completed the first one, then went back and mimicked the first patterns. Of co
 <br />
 
 <img src="/crate-images/two-crates-in-the-shop.JPG">
+
+# Materials
+
+Qty 1
+Size 4 x 8 x 1/2" birch plywood
+
+Qty 60
+Size 1" coarse thread Kreg screws
+
+Qty ~1/4 cup wood glue
+
+# Equipment
+
+1. Squares
+2. Tape measures
+3. Shop pencils
+4. Table saw or panel cutter or track saw
+5. Optional table saw roller extenders
+6. Kreg pocket hole jig, <a href="https://www.kregtool.com/shop/pocket-hole-joinery/pocket-hole-jigs/kreg-pocket-hole-jig-720pro/KPHJ720PRO.html">I use the 720 model</a>
+7. <a href="https://besseytools.com/en-us/bessey-tools-north-america/products/clamping-tools/clamping-angles-and-miters/angle-clamps-(ws)">Bessey angle clamp</a>
+8. Drill with pocket hole bit and Kreg driver bit
