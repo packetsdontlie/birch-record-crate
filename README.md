@@ -38,11 +38,16 @@ I completed the first one, then went back and mimicked the first patterns. Of co
 6. Kreg pocket hole jig, <a href="https://www.kregtool.com/shop/pocket-hole-joinery/pocket-hole-jigs/kreg-pocket-hole-jig-720pro/KPHJ720PRO.html">I use the 720 model</a>
 7. <a href="https://besseytools.com/en-us/bessey-tools-north-america/products/clamping-tools/clamping-angles-and-miters/angle-clamps-(ws)">Bessey angle clamp</a>
 8. Drill with pocket hole bit and Kreg driver bit
+9. Router with round over bit
+10. Your favorite sander, I use the Porter Cable random orbital with two grits.
+11. Optional hole saws in your favorite sizes
+12. Optional drill press
 
 # Project Impressions
 
 * The Kreg 720 jig can fool you into going too fast.  It's easy to clamp and align.  You still need to take your time drilling out the pocket hole so that each is really clean and really the same depth.  If they aren't the same depth, your pocket screws will have different depths too which means differing depths of exposed metal screws.
 * Home Depot does not sell the Kreg screws in the screw aisle.  They are in the power tools section near the drills.
-* I think the height of the crate is spot on.  It accommodates and protects oversized box sets and Laserdics easily.
+* I think the height of the crate is spot on.  It accommodates and protects oversized box sets and Laserdics easily, even if you stack two crates together.
 * Although the size is appealing, I didn't consider the loaded weight of the crate when full.  They are quite heavy and so the idea of moving them around easily is more like a question of how do I avoid a hernia.
 * Pocket hole screws and high torque drivers don't match well.  Going slow would pay off.
+* Hole saws are not fast.  You have to remove the holes after a couple of uses.  That can take a while.  Still cheaper than a CNC router, but maybe not as cool.
