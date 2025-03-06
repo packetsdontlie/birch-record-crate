@@ -23,13 +23,10 @@ I completed the first one, then went back and mimicked the first patterns. Of co
 
 # Materials
 
-Qty 1
-Size 4 x 8 x 1/2" birch plywood
-
-Qty 60
-Size 1" coarse thread Kreg screws
-
-Qty ~1/4 cup wood glue
+1. Qty 1 | Size 4 x 8 x 1/2" birch plywood
+2. Qty 60 | Size 1" coarse thread Kreg screws
+3. Qty ~1/4 cup wood glue
+4. Optional teflon-ish feet for easier movement on carpet
 
 # Equipment
 
@@ -41,3 +38,11 @@ Qty ~1/4 cup wood glue
 6. Kreg pocket hole jig, <a href="https://www.kregtool.com/shop/pocket-hole-joinery/pocket-hole-jigs/kreg-pocket-hole-jig-720pro/KPHJ720PRO.html">I use the 720 model</a>
 7. <a href="https://besseytools.com/en-us/bessey-tools-north-america/products/clamping-tools/clamping-angles-and-miters/angle-clamps-(ws)">Bessey angle clamp</a>
 8. Drill with pocket hole bit and Kreg driver bit
+
+# Project Impressions
+
+* The Kreg 720 jig can fool you into going too fast.  It's easy to clamp and align.  You still need to take your time drilling out the pocket hole so that each is really clean and really the same depth.  If they aren't the same depth, your pocket screws will have different depths too which means differing depths of exposed metal screws.
+* Home Depot does not sell the Kreg screws in the screw aisle.  They are in the power tools section near the drills.
+* I think the height of the crate is spot on.  It accommodates and protects oversized box sets and Laserdics easily.
+* Although the size is appealing, I didn't consider the loaded weight of the crate when full.  They are quite heavy and so the idea of moving them around easily is more like a question of how do I avoid a hernia.
+* Pocket hole screws and high torque drivers don't match well.  Going slow would pay off.
